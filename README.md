@@ -14,6 +14,11 @@ This university website serves as an information hub for students, faculty, and 
 Javascript, HTML, CSS, Web Design and Development.
 
 
+## Screenshots
+
+![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/aboutus%20page.png)
+
+![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/campus%20page.png)
 
 ## Other Common Github Profile Sections
 

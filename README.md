@@ -16,9 +16,15 @@ Javascript, HTML, CSS, Web Design and Development.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/aboutus%20page.png)
+![home page](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/home%20page.png)
 
-![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/campus%20page.png)
+![course page](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/course%20page.png)
+![campus](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/campus%20page.png)
+
+![facilities page](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/facilities%20page.png)
+![student page](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/student%20page.png)
+![aboutus page](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/aboutus%20page.png)
+
 
 ## Other Common Github Profile Sections
 
